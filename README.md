@@ -18,7 +18,7 @@ Walmart Sales Dataset
 ## Tools Used
 
 * SQL
-* MySQL / SQLite
+* MySQL
 * Walmart Sales Dataset
 
 ## SQL Concepts Covered
